@@ -15,7 +15,7 @@ body {
 }
 
 body {
-	background-image: url("./assets/images/body-bg.jpg");
+	background-image: url("./assets/images/cloud.jpg");
 	background-repeat: no-repeat;
 	background-attachment: unset;
 	background-position: center;
@@ -32,5 +32,5 @@ body {
 }
 
 .main-bg {
-	background-color: #05051D91 !important;
+	background-color: #083C3F42 !important;
 }

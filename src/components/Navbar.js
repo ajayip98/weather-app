@@ -18,7 +18,7 @@ export const NavbarComponent = () => {
   };
 
   return (
-    <Navbar className="main-bg" color="secondary" expand="sm">
+    <Navbar className="main-bg" color="$pink-400" expand="sm">
       <Link className="navbar-brand text-light" to="/">
         TKM Weather
       </Link>
